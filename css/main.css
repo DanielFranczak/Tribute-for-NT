@@ -18,3 +18,9 @@
 #title{
     background-color: darkgrey;
 }
+#body {
+    background-color: blue;
+}
+.list{
+    text-align: center;
+}
