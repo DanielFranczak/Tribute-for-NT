@@ -1,0 +1,20 @@
+#heading {
+    background: rgb(197, 181, 181);
+  
+}
+.smaller-image {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border-color: red;
+    border-width: 3px;
+    border-style: solid;
+    width: 10%;
+   
+}
+.h {
+    text-align: center;
+}
+#title{
+    background-color: darkgrey;
+}
